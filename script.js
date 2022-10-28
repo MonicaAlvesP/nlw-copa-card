@@ -1,4 +1,4 @@
-let isIgnite = false;
+let isIgnite = true;
 
 function changeCard(event) {
   const card = event.currentTarget
