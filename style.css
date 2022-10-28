@@ -27,7 +27,7 @@ header {
   width: 354px;
   height: 508px;
 
-  background: url(/assets/bg-explorer.svg);
+  background: url(./assets/bg-explorer.svg);
   cursor: pointer;
   opacity: 0;
   transform: translateY(-100px);
